@@ -79,6 +79,9 @@
 
 {% if site.enable_darkmode %}
   <!-- Dark Mode -->
+  <script>
+    window.defaultTheme = "{{ site.default_theme | default: 'system' }}";
+  </script>
   <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
   <link
     defer
