@@ -57,6 +57,13 @@
 
   .navbar-brand {
     color: var(--global-text-color);
+    padding: 0;
+
+    .navbar-logo {
+      max-height: 50px;
+      width: auto;
+      display: block;
+    }
   }
 
   .navbar-nav .nav-item .nav-link {
