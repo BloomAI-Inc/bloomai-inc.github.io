@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-we-did-topic-modeling-on-5-2k-articles-here-39-s-how-it-went",
+        },{id: "post-mastering-ai-prompts-the-complete-guide-to-testing-and-optimizing-prompts-across-multiple-frameworks",
+        
+          title: "Mastering AI Prompts - The Complete Guide to Testing and Optimizing Prompts Across...",
+        
+        description: "Discover how to automate prompt engineering by testing 15+ established frameworks (RACE, RISEN, SMART, PREP, etc.) simultaneously. Get objective scoring across 7 evaluation dimensions and data-driven insights to optimize your LLM prompts for any use case.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/prompting-frameworks/";
+          
+        },
+      },{id: "post-we-did-topic-modeling-on-5-2k-articles-here-39-s-how-it-went",
         
           title: "We did topic modeling on 5.2k+ articles — here&#39;s how it went",
         
