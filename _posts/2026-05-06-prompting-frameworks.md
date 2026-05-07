@@ -95,7 +95,7 @@ Every result is automatically evaluated on seven criteria:
 
 Each dimension is scored on a 1-5 scale, with an overall score being the average of all seven. This removes guesswork and emotion from the evaluation process.
 
-### 📈 Comprehensive Excel Export
+### 📈 Comprehensive Report
 All results are compiled into a detailed Excel file with:
 - **Input sheet**: Your task, domain, output format, and context
 - **Final results sheet**: Side-by-side comparison of all frameworks with scores and feedback
@@ -119,7 +119,7 @@ Each generated prompt is executed against your chosen LLM provider. The LLM proc
 ### Stage 3: Evaluation
 An evaluator LLM scores each result on the seven dimensions. This creates objective, quantifiable metrics for each approach. You can now see exactly how each framework performed.
 
-### Stage 4: Excel Export
+### Stage 4: Report Export
 All data is compiled into a professional Excel report, making it easy to:
 - Compare frameworks side-by-side
 - Identify the top performers
@@ -154,49 +154,6 @@ All data is compiled into a professional Excel report, making it easy to:
 **Scenario**: You're exploring which prompting technique works best for your AI application.
 
 **How it helps**: Get empirical data showing which framework works best for your specific use case. No more guessing.
-
----
-
-## Getting Started: A Quick Tutorial
-
-### Step 1: Setup
-```python
-# Clone and install
-git clone https://github.com/BloomAI-Inc/prompting_frameworks.git
-cd prompting_frameworks
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
-
-### Step 2: Configure API Keys
-Create a `.env` file:
-```
-OPENAI_API_KEY=your_key_here
-ANTHROPIC_API_KEY=your_key_here
-```
-
-### Step 3: Define Your Task
-```python
-import asyncio
-from main import main
-
-# Your task details
-task = "Analyze this investment opportunity"
-domain = "Financial Analysis"
-output_format = "Executive summary with risk assessment"
-context = "Current market conditions and historical data..."
-
-# Run the framework
-asyncio.run(main(task, domain, context, output_format))
-```
-
-### Step 4: Review Results
-Check the `output/` directory:
-- `results.xlsx` - Your comprehensive comparison report
-- `prompts_generated_from_{provider}.json` - All generated prompts
-- `result_generated_from_{provider}.json` - All LLM outputs
-- `evaluation_from_{provider}.json` - All evaluation scores
 
 ---
 
