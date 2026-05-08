@@ -228,6 +228,7 @@ Framework B: Correctness 4/5, Clarity 5/5, Completeness 4/5,
 ```
 
 ![excel report](/assets/img/images_for_prompting_framework_blog/image_06.png)
+*Real output: 20+ frameworks ranked side-by-side with evaluation scores and qualitative feedback*<br/>
 
 Now you can see that Framework A excels at correctness and completeness, while Framework B is better at clarity and conciseness. You can even combine insights from both to create a hybrid approach.
 
