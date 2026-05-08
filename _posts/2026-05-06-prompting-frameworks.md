@@ -59,15 +59,43 @@ Think of it as A/B testing for prompts, but on steroids—simultaneously testing
 ## Key Features
 
 ### 🎯 Multi-Framework Support
-The framework includes 15+ established prompt engineering methodologies:
-- **RACE Framework** - Result, Action, Context, Example
-- **RISEN Framework** - Role, Input, Steps, Expected output, Notes
-- **SMART Framework** - Specific, Measurable, Achievable, Relevant, Time-bound
-- **PREP Framework** - Purpose, Request, Example, Persona
-- **Few-Shot Prompting** - Learning from examples
-- And many more...
+The framework includes 20+ established prompt engineering methodologies:
 
-Each framework approaches the problem differently, and by testing all of them, you'll discover which works best for your specific use case.
+**Foundational Frameworks:**
+- **RTF Framework** - Role, Task, Format (simple and agile)
+- **RACE Framework** - Role, Action, Context, Expectation (minimal, fast, production-ready)
+- **CLEAR Framework** - Context, Logic, Examples, Assumptions, Review (detailed research)
+- **Few-Shot Prompting** - Learning from examples (consistency through examples)
+
+**Professional & Business Frameworks:**
+- **COSTAR Framework** - Context, Objective, Style, Tone, Audience, Response (brand-aligned, professional)
+- **SMART Framework** - Specific, Measurable, Achievable, Relevant, Time-bound (goal-oriented)
+- **RISEN Framework** - Role, Input, Steps, Expected output, Notes (strategic with flexibility)
+- **PREP Framework** - Position, Reason, Evidence, Position (persuasive arguments)
+
+**Advanced & Specialized Frameworks:**
+- **RASCE Framework** - Role, Action, Steps, Constraints, Examples (complex project breakdown)
+- **IDEA Framework** - Iteration, Direction, Expectation, Adapt (iterative refinement)
+- **COSTAR Framework** - Context, Objective, Style, Tone, Audience, Response (professional communication)
+- **BAB Framework** - Before, After, Bridge (emotional + practical messaging)
+- **STAR Framework** - Situation, Task, Action, Result (success stories and case studies)
+
+**Reasoning & Problem-Solving Frameworks:**
+- **Chain of Thought Framework** - Step-by-step reasoning (complex analysis)
+- **Tree of Thought Framework** - Multi-path exploration (exploring options)
+- **Self-Consistency CoT Framework** - Multiple reasoning paths (highest confidence)
+- **Socratic Questioning Framework** - Guided discovery through questions (critical thinking)
+
+**Research & Learning Frameworks:**
+- **QUEST Framework** - Question, Understanding, Expectation, Scope, Time (research scoping)
+- **GUIDE Framework** - Goal, Understanding, Information, Direction, Evaluation (systematic learning)
+- **FOCUS Framework** - Function, Outcome, Criteria, Underlying Assumptions, Strategy (quick insights)
+- **RHODES Framework** - Role, Hypothesis, Observations, Deductions, Evaluation, Synthesis (hypothesis-driven)
+- **Five S Model** - Set, Specify, Simplify, Structure, Share (educational content)
+
+
+
+Each framework approaches the problem differently, and by testing all of them, you'll discover which works best for your specific use case. This comprehensive approach means you're not guessing—you're empirically testing which methodology produces the best results for YOUR unique task.
 
 ### ⚡ Async Processing
 The framework uses batch-based concurrent processing, meaning it can test multiple frameworks simultaneously. No waiting around for sequential execution—it's fast and efficient.
@@ -198,6 +226,8 @@ Framework B: Correctness 4/5, Clarity 5/5, Completeness 4/5,
              Helpfulness 5/5, Relevance 4/5, Conciseness 5/5,
              Consistency 4/5 → Overall: 4.4/5
 ```
+
+![excel report](/assets/img/images_for_prompting_framework_blog/image_06.png)
 
 Now you can see that Framework A excels at correctness and completeness, while Framework B is better at clarity and conciseness. You can even combine insights from both to create a hybrid approach.
 
