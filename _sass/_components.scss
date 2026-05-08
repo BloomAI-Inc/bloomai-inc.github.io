@@ -59,16 +59,61 @@ ul.task-list input[type="checkbox"] {
   width: 100%;
 
   .more-info {
-    margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
+    margin-top: 1rem;
+    padding: 0;
+    text-align: center;
 
     p {
-      display: inline-block;
-      margin: 0;
+      display: block;
+      margin: 0.2rem 0;
+      font-size: 0.85rem;
+      font-weight: 400;
+      color: var(--global-text-color-light);
+      letter-spacing: 0;
+      line-height: 1.5;
+
+      &:first-child {
+        font-size: 0.9rem;
+        font-weight: 600;
+        color: var(--global-text-color);
+      }
+
+      a {
+        color: var(--global-theme-color);
+        text-decoration: none;
+        font-size: 0.85rem;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
     }
   }
 }
+
+
+// .profile {
+//   width: 100%;
+
+//   .more-info {
+//     margin-bottom: 1rem;
+//     margin-top: 0.5rem;
+//     padding: 0.75rem 1rem;
+//     background-color: var(--global-card-bg-color);
+//     border-left: 3px solid var(--global-theme-color);
+//     border-radius: 0.25rem;
+
+//     p {
+//       display: block;
+//       margin: 0.25rem 0;
+//       font-size: 0.95rem;
+//       font-weight: 600;
+//       color: var(--global-text-color);
+//       letter-spacing: 0.5px;
+//     }
+//   }
+// }
+
 
 .profile.float-right {
   margin-left: 1rem;

@@ -56,6 +56,6 @@ We co-develop rather than deliver — leaving behind working agents, a trained t
 
 ## Get in Touch
 **Amit Shanker**, Founder & CEO <br/>
- [📧 amit@bloomai.co](mailto://amit@bloomai.co)<br/>
+ [📧 amit@bloomai.co](mailto:amit@bloomai.co)<br/>
  [🌐 bloomai.co](https://bloomai.co)
 

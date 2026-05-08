@@ -1,0 +1,5 @@
+Senior Data Scientist with 4+ years of experience building scalable machine learning solutions that solve complex business challenges and drive measurable impact. Specialized in predictive modeling, deep learning, optimization techniques, time series analysis, and applied AI solutions across real-world business applications. Experienced in developing end-to-end ML systems using supervised and unsupervised learning, with a strong focus on interpretability, accountability, and actionable insights.
+
+Currently working on global customer analytics and marketing use cases, partnering with clients and cross-functional teams to solve high-impact business problems using machine learning, deep learning, and LLM-based solutions. Hands-on expertise in tree-based models, optimization frameworks, wealth data analysis, context-aware AI systems, and insight generation pipelines.
+
+Known for strong ownership, stakeholder management, and the ability to translate complex analytical findings into strategic business decisions. Passionate about leveraging data and AI to build intelligent, scalable, and business-focused solutions that create long-term value.
