@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-mastering-ai-prompts-the-complete-guide-to-testing-and-optimizing-prompts-across-multiple-frameworks",
+        },{id: "post-the-prompting-frameworks-every-marketer-needs",
+        
+          title: "The Prompting Frameworks Every Marketer Needs",
+        
+        description: "Master 5 proven prompting frameworks that transform AI tools from hit-or-miss to predictable. Create consistent, compliant, converting marketing content every time.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/top-marketing-prompting-frameworks/";
+          
+        },
+      },{id: "post-mastering-ai-prompts-the-complete-guide-to-testing-and-optimizing-prompts-across-multiple-frameworks",
         
           title: "Mastering AI Prompts - The Complete Guide to Testing and Optimizing Prompts Across...",
         
