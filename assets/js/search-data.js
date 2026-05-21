@@ -34,6 +34,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/top-marketing-prompting-frameworks/";
           
         },
+      },{id: "post-you-don-39-t-have-ai-ready-data-you-have-analytics-data",
+        
+          title: "You Don&#39;t Have AI-Ready Data. You Have Analytics Data.",
+        
+        description: "Analytics-ready data answers &#39;what happened?&#39;AI-ready data answers &#39;what should happen next?&#39; They need separate architectures.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ai-ready-vs-analytics-ready-data/";
+          
+        },
       },{id: "post-mastering-ai-prompts-the-complete-guide-to-testing-and-optimizing-prompts-across-multiple-frameworks",
         
           title: "Mastering AI Prompts - The Complete Guide to Testing and Optimizing Prompts Across...",
