@@ -23,18 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-transform-your-sales-marketing-5-proven-prompting-frameworks",
-        
-          title: "Transform Your Sales Marketing - 5 Proven Prompting Frameworks",
-        
-        description: "Master 5 proven prompting frameworks for complex, long-cycle sales. Build trust with multiple stakeholders, navigate compliance, and align decision makers through AI-powered content.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/top-marketing-prompting-frameworks/";
-          
-        },
-      },{id: "post-you-don-39-t-have-ai-ready-data-you-have-analytics-data",
+        },{id: "post-you-don-39-t-have-ai-ready-data-you-have-analytics-data",
         
           title: "You Don&#39;t Have AI-Ready Data. You Have Analytics Data.",
         
@@ -43,6 +32,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/ai-ready-vs-analytics-ready-data/";
+          
+        },
+      },{id: "post-transform-your-sales-marketing-5-proven-prompting-frameworks",
+        
+          title: "Transform Your Sales Marketing - 5 Proven Prompting Frameworks",
+        
+        description: "Master 5 proven prompting frameworks for complex, long-cycle sales. Build trust with multiple stakeholders, navigate compliance, and align decision makers through AI-powered content.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/top-marketing-prompting-frameworks/";
           
         },
       },{id: "post-mastering-ai-prompts-the-complete-guide-to-testing-and-optimizing-prompts-across-multiple-frameworks",
