@@ -23,11 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-the-prompting-frameworks-every-marketer-needs",
+        },{id: "post-transform-your-sales-marketing-5-proven-prompting-frameworks",
         
-          title: "The Prompting Frameworks Every Marketer Needs",
+          title: "Transform Your Sales Marketing - 5 Proven Prompting Frameworks",
         
-        description: "Master 5 proven prompting frameworks that transform AI tools from hit-or-miss to predictable. Create consistent, compliant, converting marketing content every time.",
+        description: "Master 5 proven prompting frameworks for complex, long-cycle sales. Build trust with multiple stakeholders, navigate compliance, and align decision makers through AI-powered content.",
         section: "Posts",
         handler: () => {
           
