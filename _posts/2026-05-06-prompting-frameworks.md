@@ -7,7 +7,7 @@ tags: [genai,llm,prompt-engineering]
 categories: GenAI
 giscus_comments: false
 related_posts: false
-featured: true
+featured: false
 toc:
   sidebar: left
 pretty_table: true
