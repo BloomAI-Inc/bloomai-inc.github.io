@@ -639,5 +639,3 @@ They ensure:
 Start with CLEAR this week. Add COSTAR next week. You'll see the difference immediately.
 
 The marketers who master these frameworks won't just create more content faster—they'll create *better* content that converts, complies, and builds real brand trust.
-
-**Your move.**
