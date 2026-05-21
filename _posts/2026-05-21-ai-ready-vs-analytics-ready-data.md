@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Don't Have AI-Ready Data. You Have Analytics Data.
-date: 2026-05-06
+date: 2026-05-21
 description: "Analytics-ready data answers 'what happened?'AI-ready data answers 'what should happen next?' They need separate architectures."
 tags: [genai,llm,data-analytics,data-engineering,data-architecture,data-quality]
 categories: GenAI
