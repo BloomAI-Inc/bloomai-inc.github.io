@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Transform Your Sales Marketing - 5 Proven Prompting Frameworks
-date: 2026-05-21
-description: Master 5 proven prompting frameworks for complex, long-cycle sales. Build trust with multiple stakeholders, navigate compliance, and align decision makers through AI-powered content.
-tags: [genai,llm,prompt-engineering,sales-marketing,long-cycle,stakeholder-alignment]
+title: Prompting Frameworks for Asset Management Marketing
+date: 2026-05-22
+description: Five proven prompting frameworks to help asset management marketers get full value from AI tools like Claude and Copilot. Build trust with institutional investors, navigate compliance, and win mandates through structured AI-powered content.
+tags: [genai,llm,prompt-engineering,asset-management,institutional-marketing,mandate-sales]
 categories: GenAI
 giscus_comments: false
 related_posts: false
@@ -19,22 +19,26 @@ pretty_table: true
 
 ---
 
-## Why Your Marketing AI Fails (And How to Fix It)
+## How to Set Up AI for Success in Asset Management Marketing
 
-You have access to the same AI tools as your competitors. Same capabilities. Same models. So why does their marketing win over 18-month deals while yours stalls at discovery?
+Marketing teams at asset management firms across different scales are increasingly using AI tools like Microsoft Copilot and Claude in their daily work. Writing RFP responses, drafting strategy commentaries, building pitch books, creating due diligence responses. The tools are accessible and the time savings are obvious.
 
-The answer isn't better tools. It's *better prompting structures for complex, long-cycle sales*.
+But here's the gap: most teams are not getting the full benefit.
 
-Most marketers treat AI like a draft generator: write a request, clean up the output, send it to legal for review. But **prompting frameworks are to complex sales marketing what governance is to compliance**. They transform inconsistent messaging and legal exposure into predictable, defensible, multi-stakeholder-aligned content.
+When AI output isn't carefully structured, it doesn't land. It's not wrong. It's just generic. It doesn't sound like you. It doesn't speak to what your institutional buyers actually care about. And in a world where a pension fund CIO is evaluating five active managers with similar track records, generic doesn't win mandates.
 
-Here's the real challenge: *What are you actually trying to accomplish with AI across a 12-18 month sales cycle?*
+The reason isn't the AI. It's the prompting structure. When you give a vague instruction, you get vague output. When you give the AI the right context (the stakeholder, the regulatory environment, the proof, the specific concern), the output shifts from "could be anyone" to "clearly you."
+
+These five frameworks are the prompting best practices that bridge that gap. Think of them as the operating system for your AI marketing workflow. Not just tips, but a complete structure for how to prompt AI across your mandate sales cycle, from understanding what institutional buyers evaluate to creating compliant pitch materials to building proof that survives procurement and legal review.
+
+Here's the real question: *What are you actually trying to accomplish with AI across a 12-18 month institutional sales cycle?*
 
 Are you trying to:
-- Build trust with 7+ stakeholders (CFO, CTO, Head of Risk, Legal)?
-- Navigate regulatory and compliance requirements without exposure?
-- Create defensible claims that survive vendor evaluation and legal review?
-- Tell stories that prove ROI in high-risk buying decisions?
-- Research your market before positioning?
+- Build trust with 6-8 stakeholders (CIO, Head of Manager Selection, Risk Officer, Compliance, Investment Committee, Trustees)?
+- Navigate SEC, FCA, and GIPS compliance requirements without exposure?
+- Create defensible performance claims that survive due diligence?
+- Tell stories that prove alpha generation and risk-adjusted returns in high-stakes mandate decisions?
+- Research your institutional buyer before positioning your strategy?
 
 Each goal requires a different approach. These frameworks provide that structure.
 
@@ -45,25 +49,25 @@ Each goal requires a different approach. These frameworks provide that structure
 Before we talk about frameworks, let's be honest about what's happening right now.
 
 ![Generic vs. Frameworks comparison - split screen showing generic content on left, strategic stakeholder-aligned content on right](/assets/img/top_marketing_prompting_frameworks/image_01.png)
-*Left: Generic prompting produces content that looks compliant but doesn't differentiate. Right: Frameworks produce strategic, compliance-ready content that wins deals.*
+*Left: Generic prompting produces content that looks compliant but doesn't differentiate. Right: Frameworks produce strategic, compliance-ready content that wins mandates.*
 
 You're probably prompting like this:
 ```
-"Write a case study for our data governance platform for insurance companies."
+"Write a pitch document for our global equity strategy for pension funds."
 ```
 
-And you're getting output that technically works for RFP requirements, but doesn't actually move the deal. It doesn't speak to what keeps a Head of Risk awake at night. It doesn't convince a CFO that your solution is worth the integration cost. It doesn't address the CTO's technical concerns.
+And you're getting output that technically satisfies RFP word counts, but doesn't actually move the mandate. It doesn't speak to what keeps a Head of Manager Selection awake at night. It doesn't convince a CIO that your risk-adjusted alpha justifies your fee. It doesn't address the Investment Committee's concern about drawdown protection.
 
-Why? Because you've told the AI what to *do* (write a case study), but not:
-- **Who** are the 5-7 actual decision makers, and what does each care about?
-- **Why** should they trust *you* over 3 other vendors in evaluation?
-- **What** does success look like (risk reduction, compliance, operational efficiency)?
-- **When** should you emphasize ROI vs. risk mitigation vs. operational fit?
-- **How** do you navigate compliance requirements without legal getting involved in every revision?
+Why? Because you've told the AI what to *do* (write a pitch), but not:
+- **Who** are the 6-8 actual decision makers, and what does each evaluate?
+- **Why** should they trust *you* over 4 other managers in the shortlist?
+- **What** does success look like (alpha generation, ESG compliance, operational due diligence readiness)?
+- **When** should you emphasize performance vs. risk management vs. operational capability?
+- **How** do you navigate GIPS, SEC, and FCA requirements without compliance getting involved in every revision?
 
 **Prompting frameworks solve this** by giving you a structure that forces you to answer these questions *before* you ask the AI for output.
 
-The result? Content that survives legal review without rewrites. Messaging that speaks to each stakeholder's actual concern. Claims that demonstrate defensible ROI. Sales materials that accelerate deals instead of getting stuck in compliance review.
+The result? RFP responses that survive compliance review without rewrites. Strategy documents that speak to each stakeholder's actual evaluation criteria. Performance claims that are defensible under due diligence. Pitch materials that accelerate mandates instead of getting stuck in procurement review.
 
 ---
 
@@ -73,59 +77,59 @@ There are five frameworks that cover everything you need to create with AI:
 
 | Framework | Purpose | Best When You Need To... | Outcome |
 |-----------|---------|-------------------------|---------|
-| **CLEAR** | Stakeholder research and buying criteria | Understand what 7+ decision makers care about | RFP responses that address real concerns |
-| **COSTAR** | Voice and multi-stakeholder alignment | Sound credible and consistent across touchpoints | Professional messaging at scale |
-| **STAR** | Risk mitigation and ROI proof | Turn customer results into defensible proof | Case studies that close deals |
-| **BAB** | Business impact narrative | Help prospects envision success | Content that moves deals forward |
-| **PREP** | Legal defensibility and compliance | Ensure claims survive vendor evaluation | Marketing that accelerates deals |
+| **CLEAR** | Stakeholder research and buying criteria | Understand what 6-8 decision makers at an institutional investor evaluate | RFP responses that address real concerns |
+| **COSTAR** | Voice and multi-stakeholder alignment | Sound credible and consistent across pitch materials and strategy documents | Professional content at scale |
+| **STAR** | Risk mitigation and performance proof | Turn mandate wins into defensible proof of alpha and risk management | Case studies that move mandates forward |
+| **BAB** | Business impact narrative | Help institutional prospects envision the outcome of allocating to your strategy | Content that builds conviction |
+| **PREP** | Legal defensibility and compliance | Ensure performance claims survive GIPS review, SEC scrutiny, and due diligence | Marketing that accelerates, not stalls, mandates |
 
-Notice something? These aren't maturity levels. They're complementary frameworks. You don't graduate from CLEAR to COSTAR. You use them strategically, sometimes stacking them in the same content (e.g., a case study combining STAR + PREP + BAB).
+Notice something? These aren't maturity levels. They're complementary frameworks. You don't graduate from CLEAR to COSTAR. You use them strategically, sometimes stacking them in the same content (e.g., an RFP response combining STAR + PREP + COSTAR).
 
 The question isn't "which framework should I use?" It's "which stakeholders matter, what are they evaluating, and what do I need to accomplish with each?" Let that answer guide you.
 
-![Five frameworks in a circle around a deal cycle: CLEAR (research), COSTAR (voice), STAR (proof), BAB (impact), PREP (compliance)](/assets/img/top_marketing_prompting_frameworks/image_02.png)
-*These frameworks work together across the sales cycle. CLEAR informs strategy, COSTAR maintains consistency, STAR provides proof, BAB creates urgency, PREP ensures compliance.*
+![Five frameworks in a circle around a mandate cycle: CLEAR (research), COSTAR (voice), STAR (proof), BAB (impact), PREP (compliance)](/assets/img/top_marketing_prompting_frameworks/image_02.png)
+*These frameworks work together across the mandate sales cycle. CLEAR informs strategy, COSTAR maintains consistency, STAR provides proof, BAB creates conviction, PREP ensures compliance.*
 
 ---
 
 ## Framework #1: CLEAR
-### Understanding Stakeholders Before You Create
+### Understanding Institutional Buyers Before You Create
 
 **What is CLEAR?**
 
-**CLEAR** stands for Context-Logic-Expectations-Action-Restrictions. It's the framework for stakeholder research and strategic thinking before you create selling content.
+**CLEAR** stands for Context-Logic-Expectations-Action-Restrictions. It's the framework for stakeholder research and strategic thinking before you create any pitch or RFP content.
 
 **Why CLEAR matters:**
 
-Great marketing doesn't start with great copy. It starts with understanding who actually makes the decision and what they care about.
+Great institutional marketing doesn't start with great copy. It starts with understanding who actually makes the allocation decision and what they care about.
 
-Deals aren't closed by the person who downloads your whitepaper. They're closed by a committee: the CFO (ROI?), the CTO (technical fit?), the Head of Risk (compliance?), the Head of Operations (implementation effort?). Each has different concerns. Each evaluates differently.
+Mandates aren't won by the analyst who downloads your factsheet. They're won by a committee including the CIO (alpha conviction?), the Head of Manager Selection (operational due diligence?), the Risk Officer (drawdown tolerance?), the Compliance team (GIPS, FCA, regulatory fit?), and the Investment Committee (strategic asset allocation fit?). Each evaluates differently. Each has different concerns.
 
 Before you create anything, you need to know:
-- Who are the 5-7 actual decision makers, and what does each evaluate?
-- What keeps them awake at night (risk, cost, integration, regulatory change)?
-- How do they justify this to leadership and their board?
-- What does competitive evaluation look like?
-- Which concerns block deals at what stage?
+- Who are the 6-8 actual decision makers, and what does each evaluate?
+- What keeps them awake at night (underperformance, career risk, ESG pressure, regulatory change)?
+- How do they justify the allocation to their investment committee or board?
+- What does competitive manager evaluation look like?
+- Which concerns block mandates at what stage?
 
-Most marketers skip this. They create generic content that tries to please everyone. CLEAR forces you to understand who matters and why, and your sales acceleration improves dramatically.
+Most marketing teams skip this. They create generic content that tries to please everyone. CLEAR forces you to understand who matters and why, and your mandate win rate improves dramatically.
 
 **What CLEAR does differently:**
 
-CLEAR is not a writing framework. It's a stakeholder strategy framework for research before creation.
+CLEAR is not a writing framework. It's a stakeholder strategy framework for research before content creation.
 
 Think of CLEAR as your discovery briefing structure. It ensures your research is:
 - Stakeholder-specific (not generic)
 - Operationally actionable (not just interesting)
 - Comprehensive (all decision makers, all evaluation criteria)
-- Strategic (informs RFP strategy, messaging, content roadmap)
+- Strategic (informs RFP strategy, pitch messaging, content roadmap)
 
 **The CLEAR Template:**
 
 ```
-Context: [Your market, customer segment, deal stage. What's the business situation?]
+Context: [Your market, investor segment, mandate stage. What's the business situation?]
 
-Logic: [Why this research matters. What buying decisions hang in the balance?]
+Logic: [Why this research matters. What allocation decisions hang in the balance?]
 
 Expectations: [Specific format. Who decides? What do they evaluate? How do they justify internally?]
 
@@ -136,57 +140,58 @@ Restrictions: [Sources, timeline, scope, confidentiality, recent data freshness]
 
 **Real CLEAR in Action:**
 
-Let's say you sell data governance software to insurance companies, and your target is a deal worth $800K-2M.
+Let's say you manage a global active equity strategy and are targeting large public pension funds for a $20-100M mandate.
 
 ❌ **Without CLEAR:**
 ```
-"Tell me how insurance companies evaluate data governance platforms."
+"Tell me how pension funds evaluate active equity managers."
 ```
-(Generic. You'll get surface-level info about feature comparison, not decision dynamics.)
+(Generic. You'll get surface-level info about performance comparison, not decision dynamics.)
 
 ✅ **With CLEAR:**
 ```
-Context: We're selling a data governance platform to mid-market insurance companies 
-(500-5000 employees). Typical deal size: $800K-$2M over 3 years. Average sales cycle: 12-18 months.
+Context: We manage a global active equity strategy ($8B AUM) and are targeting large public 
+pension funds (assets $5B-$50B). Typical mandate size: $20M-$100M. Average sales cycle is
+12-18 months. We are in competitive evaluation against 4-5 other managers.
 
-Logic: Insurance companies have 6-7 stakeholders in this decision, and each evaluates differently. 
-If we don't understand what each stakeholder actually needs, our RFP responses fall flat and 
-deals get stuck in evaluation limbo. We need to build messaging and content that speaks to each 
-stakeholder's specific concern.
+Logic: Pension funds have 6-8 stakeholders in this decision, and each evaluates differently. 
+If we don't understand what each stakeholder actually needs, our RFP responses miss the mark 
+and mandates get stuck in evaluation limbo. We need pitch materials and RFP responses that 
+speak to each stakeholder's specific concern.
 
-Expectations: For insurance companies evaluating data governance solutions, identify:
-  1. The 6-7 actual stakeholders (title, department, primary concern)
+Expectations: For public pension funds evaluating global active equity managers, identify:
+  1. The 6-8 actual stakeholders (title, department, primary concern)
   2. For each stakeholder: What are their top 3-4 evaluation criteria?
-  3. How does each stakeholder justify the investment to leadership?
+  3. How does each stakeholder justify the allocation to the investment committee or board?
   4. What are the most common deal blockers and at what stage?
-  5. How do they compare us to Collibra, Alation, and internal build?
-  6. What regulatory/compliance concerns come up in evaluation?
-  7. What ROI/payback period do they expect, and how is it measured?
+  5. How do they compare us to passive alternatives and other active managers?
+  6. What regulatory or ESG-related concerns come up during evaluation?
+  7. What performance benchmarks, time periods, and attribution formats do they expect?
 
 Action: Map this to our content strategy. We need different narratives for:
-  • CFO: ROI and cost-of-risk
-  • CRO/Compliance: Regulatory requirement and audit readiness
-  • CTO: Technical architecture and integration effort
-  • COO: Implementation timeline and change management
-  • Head of Data: Data quality and operational analytics
+  • CIO: Alpha conviction and strategy differentiation
+  • Head of Manager Selection: Operational due diligence and reporting transparency
+  • Risk Officer: Drawdown management, tracking error, risk-adjusted returns
+  • Compliance: GIPS compliance, FCA/SEC regulatory fit, ESG integration policy
+  • Investment Committee: Strategic asset allocation fit, fee-for-alpha justification
+  • Trustees/Board: Fiduciary responsibility and peer benchmark comparison
 
-Restrictions: Focus on 2024-2025. Include Gartner Magic Quadrant evaluation reports, 
-RFP guidance from analyst firms, and at least 2-3 recent customer wins in insurance. 
-2500 words max. Business professional tone.
+Restrictions: Focus on 2024-2025 research. Include CEM Benchmarking, Mercer manager 
+evaluation reports, and institutional consultant frameworks. At least 2-3 recent mandate 
+wins as reference. 2500 words max. Business professional tone.
 ```
 
 See the difference? Now you're not creating blind. You know exactly which stakeholder concerns you need to address, in what order, and why.
 
-
 **When NOT to use CLEAR:**
 
-- When you already have deep, recent stakeholder knowledge
-- When you're iterating proven messaging (you did CLEAR already)
-- When you're at deal closure (too late for research)
+- When you already have deep, recent stakeholder knowledge from that investor
+- When you're iterating proven messaging for a repeat evaluation
+- When you're at final mandate stage (too late for research)
 
 **Why CLEAR comes first:**
 
-Most marketing workflows should start here. Stakeholder understanding informs messaging, content roadmap, RFP strategy, and sales enablement. Skip CLEAR, and everything that follows misses the actual buying criteria.
+Most marketing workflows should start here. Stakeholder understanding informs pitch messaging, RFP strategy, and content roadmap. Skip CLEAR, and everything that follows misses the actual buying criteria.
 
 ---
 
@@ -195,34 +200,34 @@ Most marketing workflows should start here. Stakeholder understanding informs me
 
 **What is COSTAR?**
 
-**COSTAR** stands for Context-Objective-Style-Tone-Audience-Response. It's the framework for creating credible, professional content that positions you as a trusted partner.
+**COSTAR** stands for Context-Objective-Style-Tone-Audience-Response. It's the framework for creating credible, professional content that positions your firm as a trusted investment partner.
 
 **Why COSTAR matters:**
 
-Trust is the currency. Your competitor might have similar capabilities, but if you sound more credible, more stable, and more aligned with governance concerns, you win.
+Trust is the currency. Your competitor may have a similar 5-year track record, but if your pitch sounds more credible, more rigorous, and more aligned with how institutional investors think about risk and performance, you win the shortlist.
 
-The problem: when you hand off content creation to AI without guardrails, it doesn't sound credible. It sounds generic. It lacks the specificity, regulatory awareness, and stakeholder consideration that B2B buyers expect.
+The problem: when you hand off content creation to AI without guardrails, it doesn't sound credible. It sounds generic. It lacks the specificity, regulatory awareness, and investment sophistication that institutional buyers expect from a manager at this level.
 
-COSTAR fixes this. It says: "Here's our market position, here's what each stakeholder needs to hear, here's what professional-grade looks like."
+COSTAR fixes this. It says: "Here's our investment positioning, here's what each stakeholder needs to hear, here's what institutional-grade looks like."
 
 **What COSTAR does differently:**
 
-COSTAR is stakeholder-aware. It doesn't just say "write an RFP response." It defines context, business goal, audience concerns, and the quality bar for professional content.
+COSTAR is stakeholder-aware. It doesn't just say "write an RFP response." It defines context, objective, audience concerns, and the quality bar for institutional-grade content.
 
-Unlike CLEAR (which is research), COSTAR is execution-focused. You use COSTAR when ready to create content that is production-ready, legally sound, and aligned to how each stakeholder evaluates.
+Unlike CLEAR (which is research), COSTAR is execution-focused. You use COSTAR when you're ready to create content that is production-ready, legally sound, and aligned to how each stakeholder will evaluate it.
 
 **The COSTAR Template:**
 
 ```
-Context: [Your market position, product capabilities, competitive differentiation, regulatory environment]
+Context: [Your firm's position, strategy capabilities, competitive differentiation, regulatory environment]
 
-Objective: [What should this content accomplish? (Win RFP evaluation? Move from discovery to pilot? Accelerate vendor consolidation?)]
+Objective: [What should this content accomplish? (Win RFP shortlist? Move from due diligence to mandate? Accelerate investment committee approval?)]
 
-Style: [Format - RFP response section, case study, solution brief, email sequence, sales presentation, etc.]
+Style: [Format - RFP response section, strategy factsheet, pitch book, due diligence questionnaire, commentary, email sequence, etc.]
 
-Tone: [Enterprise credibility vs. approachability. Confident vs. humble. Data-driven vs. narrative.]
+Tone: [Institutional credibility vs. approachability. Data-driven vs. narrative. Confident vs. humble about macro uncertainty.]
 
-Audience: [Who reads this? (CFO evaluating ROI? CTO evaluating integration? Compliance reviewing controls?)]
+Audience: [Who reads this? (CIO evaluating alpha conviction? Risk Officer evaluating drawdown? Compliance reviewing GIPS?)]
 
 Response: [Must-include elements, compliance requirements, messaging priorities, proof points needed, word count, visual requirements]
 ```
@@ -231,364 +236,379 @@ Response: [Must-include elements, compliance requirements, messaging priorities,
 
 ❌ **Without COSTAR:**
 ```
-"Write a solution brief for our asset management platform for private equity."
+"Write a strategy brief for our sustainable fixed income fund for sovereign wealth funds."
 ```
-(Generic. Might miss what PE firms actually care about in due diligence.)
+(Generic. Might miss what SWFs actually care about in ESG integration or currency risk.)
 
 ✅ **With COSTAR:**
 ```
-Context: We provide asset data management and governance for infrastructure and private equity 
-portfolio companies. Our differentiation: 95% faster data integration than manual processes, 
-automated compliance reporting for ESG and regulatory requirements, real-time portfolio visibility. 
-Market position: we're positioned between spreadsheet chaos and enterprise-grade systems.
+Context: We manage a sustainable fixed income strategy ($12B AUM). Our differentiation: 
+proprietary ESG scoring integrated into credit analysis, not layered on top. We screen 
+for climate transition risk and social governance before credit assessment. Performance: 
+45bps alpha vs. Bloomberg Global Aggregate over 5 years (GIPS-compliant composite, 
+2020-2024). Regulatory status: FCA-authorised, SFDR Article 8 compliant.
 
-Objective: Move from initial conversation to pilot commitment. The prospect is a PE firm evaluating 
-us for portfolio-wide rollout. They need to understand: (1) time-to-value, (2) how we reduce 
-integration cost vs. alternatives, (3) how we support their ESG reporting mandate.
+Objective: Move from initial conversation to formal RFP submission. The prospect is a 
+sovereign wealth fund evaluating us for a €500M fixed income allocation. They need to 
+understand: (1) how our ESG integration is genuinely additive to returns, not just a 
+label, (2) how we manage duration and currency risk across sovereign and corporate credit, 
+(3) our operational infrastructure and reporting capability.
 
-Style: 2-page solution brief. Header (what we do, why it matters to PE). 3 problem sections 
-(data fragmentation, ESG reporting burden, integration cost). Corresponding solution sections 
-with ROI proof. 1-2 key differentiators. Customer proof section (1 portfolio company result).
+Style: 3-page strategy brief. Header (investment philosophy in 2-3 sentences). 
+Three sections: (1) ESG integration methodology, (2) risk management approach, 
+(3) operational and reporting capability. Close with composite performance and key facts.
 
-Tone: Confident, specific, data-backed. We understand PE's unique challenges (portfolio companies 
-at different maturity levels, compliance urgency, cost consciousness). Never condescending. Assume 
-the reader is sophisticated and skeptical. Back every claim with specifics, not hype.
+Tone: Rigorous, evidence-based, intellectually honest about risks and limitations. 
+We do not oversell. We do not use language like "best-in-class" or "industry-leading" 
+without attribution. Assume the reader is a sophisticated allocator who will challenge 
+every claim. Back all claims with data, not adjectives.
 
-Audience: Primary = Investment Manager or Operating Partner at PE firm ($500M+ AUM). Secondary = 
-CFO or Chief Data Officer at portfolio company. They care about: ROI (cost of integration vs. value), 
-time (days to deploy, not months), compliance (ESG readiness, audit preparedness).
+Audience: Primary = Head of Fixed Income or Senior Portfolio Manager at a €10B+ SWF. 
+Secondary = ESG Officer and Compliance team. They care about: genuine ESG integration 
+(not greenwashing), risk-adjusted returns vs. passive alternatives, operational 
+robustness, transparent fee structure.
 
 Response:
-  • Header: Max 50 words. Lead with the outcome, not the product ("Reduce data integration costs by 60% 
-    while building ESG-audit-ready reporting" not "enterprise asset data management solution")
-  • Problems section: Frame in PE language (portfolio complexity, compliance burden, integration 
-    inefficiency) not generic language
-  • ROI: Include a small case study (portfolio company, before/after, $ saved or efficiency gained). 
-    Quantify. Use real numbers. Be specific about scope and timeline.
-  • Proof: 1-2 customer logos with a 1-line description of their specific outcome
-  • Design: Professional, PDF-friendly, print-safe (black text on white background). Include your logo. 
-    No trendy design. Looks like an enterprise vendor, not a startup.
-  • Compliance: Internally reviewed for accuracy. No unsubstantiated claims. All metrics attributed 
-    (e.g., "based on deployment of 20+ portfolio companies 2023-2024").
+  • Opening: Lead with investment philosophy and performance outcome ("Integrating climate 
+    transition risk into credit analysis has contributed 45bps of alpha over 5 years" 
+    not "we are a leading sustainable fixed income manager")
+  • ESG section: Explain the methodology step-by-step. Show it is proprietary and 
+    process-driven, not just an exclusion screen. Include 1-2 examples of how ESG 
+    analysis changed a credit decision.
+  • Risk section: Include duration ranges, currency hedging policy, drawdown analysis. 
+    Show max drawdown vs. benchmark over 5 years.
+  • Proof: GIPS-compliant composite performance. Clearly state time period, benchmark, 
+    and number of accounts. No cherry-picked periods.
+  • Compliance: SFDR classification stated. No claims without attribution. 
+    All performance figures GIPS-verified.
 ```
 
-Now the AI has everything it needs to create content that sounds like you, addresses PE-specific concerns, and moves deals forward.
+Now the AI has everything it needs to create content that sounds like you, addresses SWF-specific concerns, and moves mandates forward.
 
 **When NOT to use COSTAR:**
 
 - When you're researching stakeholders (use CLEAR first)
-- When you're building a single claim (use PREP)
-- When you're creating customer proof (use STAR)
+- When you're validating a single claim (use PREP)
+- When you're creating investor proof (use STAR)
 - When you need impact narrative (use BAB)
 
 **COSTAR is essential for:**
-- RFP responses and solution briefs
-- Website messaging and positioning
-- Email campaigns to prospects
-- Sales presentations and pitch materials
-- Proposal cover letters and executive summaries
-- Messaging standards across all content
+- RFP responses and strategy briefs
+- Website positioning and investment philosophy statements
+- Email campaigns to institutional prospects
+- Pitch books and presentation materials
+- Due diligence questionnaire responses
+- Messaging consistency across all content
 
 ---
 
 ## Framework #3: STAR
-### Customer Wins Into Defensible Proof
+### Mandate Wins Into Defensible Proof
 
 **What is STAR?**
 
-**STAR** stands for Situation-Task-Action-Result. It's the framework for structuring customer implementation stories that prove ROI and build credibility.
+**STAR** stands for Situation-Task-Action-Result. It's the framework for structuring investor success stories that prove alpha generation, risk management, and operational delivery.
 
 **Why STAR matters:**
 
-Prospects don't buy on claims. They buy on proof that similar companies saw real value.
+Institutional allocators don't buy on claims. They buy on evidence that similar investors saw real value from similar mandates.
 
-A prospect will ignore your claim that you "reduce integration cost by 60%." But show them a portfolio company that deployed in 6 weeks instead of 4 months and recovered that cost in avoided consulting fees? Now they have something to present to their investment committee.
+A prospect will ignore your claim that you "deliver consistent alpha." But show them a pension fund of comparable size and risk appetite that allocated $50M to your strategy, and achieved 200bps above their custom benchmark over 3 years with lower tracking error than their previous manager? Now they have something to present to their investment committee.
 
-STAR turns customer wins into legally defensible proof. It structures success stories so they're:
-- Credible and specific (real company, real metrics, verifiable)
-- Persuasive (shows actual ROI and business impact)
+STAR turns mandate wins into legally defensible proof. It structures success stories so they're:
+- Credible and specific (real client, real metrics, GIPS-compliant)
+- Persuasive (shows actual alpha and risk-adjusted performance)
 - Relevant (the prospect sees themselves in the scenario)
-- Compliant (substantiated by data, not hype)
+- Compliant (substantiated by data, not marketing language)
 
 **What STAR does differently:**
 
-STAR is proof-structure focused. Unlike COSTAR (which is about voice) or BAB (which is about impact), STAR is about demonstrable results.
+STAR is proof-structure focused. Unlike COSTAR (which is about voice) or BAB (which is about future vision), STAR is about demonstrable, verifiable results.
 
-The STAR framework creates this logic: "This company faced a challenge like ours, implemented this solution, achieved specific ROI, and therefore we might achieve similar results." It's a proof structure that passes legal review because it's based on facts.
+The STAR framework creates this logic: "This investor faced a situation like ours, allocated to this strategy, achieved specific outcomes, and therefore we might achieve similar results." It's a proof structure that passes due diligence because it's grounded in facts rather than marketing language.
 
 **The STAR Template:**
 
 ```
-Situation: [The business challenge the customer faced specific context, scale, industry]
+Situation: [The investment challenge the client faced — specific context, fund size, liability profile, prior manager limitations]
 
-Task: [The explicit goal and success criteria what were they trying to accomplish?]
+Task: [The explicit goal and success criteria — what were they trying to accomplish with the allocation?]
 
-Action: [How they implemented. Timeline, scope, change management. Be specific.]
+Action: [How they implemented. Mandate structure, timeline, transition approach, reporting setup. Be specific.]
 
-Result: [Measurable business outcomes. Quantify time, cost, efficiency, risk reduction. Include timeline.]
+Result: [Measurable investment outcomes. Quantify alpha, risk metrics, operational improvements, compliance achievements. Include time period.]
 ```
 
 **Real STAR in Action:**
 
 ❌ **Without STAR:**
 ```
-"We help private equity firms manage portfolio assets more efficiently."
+"We help pension funds achieve better risk-adjusted returns through active management."
 ```
 (Vague claim. Unsubstantiated. Doesn't prove anything.)
 
 ✅ **With STAR:**
 ```
-Situation: A mid-market PE firm with a $2.5B AUM portfolio owned 18 infrastructure companies 
-at varying maturity levels. Asset data was scattered across multiple spreadsheets, databases, 
-and departmental silos. The portfolio team had no real-time visibility into asset status, ESG 
-metrics, or compliance readiness. Each quarter, the finance and ESG reporting took 3-4 weeks 
-of manual work, leaving room for error and exposing the firm to audit risk.
+Situation: A £4.2B UK public sector pension fund had 35% of its equity allocation 
+in a passive global tracker. After a liability-driven investment review, the investment 
+committee concluded they needed more active risk management to meet their 6.5% actuarial 
+return assumption, particularly around downside protection in equity drawdowns. Their 
+existing active equity manager had underperformed the MSCI World benchmark by 80bps 
+annually over 5 years (net of fees), with no discernible reduction in drawdown.
 
-Task: Implement a consolidated asset data management system that would: (1) aggregate asset 
-data across all portfolio companies in one platform, (2) reduce quarterly ESG and compliance 
-reporting from 3-4 weeks to 5 days, (3) enable real-time portfolio visibility for investment 
-decisions, (4) achieve this without disrupting ongoing operations.
+Task: Replace the underperforming active manager with a strategy that could: 
+(1) generate consistent alpha above MSCI World net of fees, (2) demonstrate lower 
+maximum drawdown than the benchmark during market stress, (3) provide quarterly 
+attribution reporting aligned with their trustee reporting requirements, 
+(4) be fully GIPS-compliant and FCA-regulated.
 
-Action: Phased implementation over 6 months. Month 1-2: data integration from existing systems 
-(Excel, QuickBooks, custom databases). Month 3: automated compliance and ESG reporting workflows. 
-Month 4-6: rollout to all 18 portfolio companies with change management and training. The firm 
-chose a phased approach (5-7 companies per phase) to minimize disruption. Total implementation 
-cost: $180K (internal resources + platform setup). External consulting: $45K.
+Action: Transition to our global equity strategy over a 90-day period to manage 
+market impact. We agreed a £150M mandate (initial allocation, with £100M optionality 
+at 18-month review). Reporting includes a custom quarterly attribution pack aligned to their 
+trustee template. ESG integration methodology was reviewed by their responsible investment 
+adviser before onboarding. For the first 6 months, we held monthly calls with their CIO and risk team 
+to establish reporting cadence and portfolio transparency.
 
 Result:
-  • ESG and compliance reporting: 3-4 weeks → 5 days (83% reduction in labor)
-  • Reporting accuracy: 6-7 errors per report → 0 errors (automated validation)
-  • Portfolio visibility: Real-time asset and compliance dashboards (previously quarterly reviews)
-  • Time-to-decision: Investment team gained 120+ hours per quarter for strategic analysis
-  • Cost avoidance: Avoided $120K in external ESG consulting (first year)
-  • Implementation cost recovered: Q3 (within 6 months of full deployment)
-  • Timeline: Full deployment 6 months (vs. 12-month estimates from competing solutions)
+  • Alpha vs. MSCI World: +185bps per annum net of fees (3-year period, 2021-2024, 
+    GIPS-compliant composite)
+  • Maximum drawdown (Q1 2022 and Q3 2022 market stress): -9.3% versus benchmark -14.1% 
+    (35% lower drawdown)
+  • Tracking error: 3.8% (within agreed 2-5% mandate range)
+  • Trustee reporting: Quarterly attribution packs delivered within 10 business days 
+    of quarter close (versus 25-day standard from prior manager)
+  • 18-month mandate review: Investment committee approved additional £80M allocation
+  • Client status: Active reference client (available for due diligence calls)
 ```
 
-Now the prospect doesn't hear a claim. They see a specific case another PE firm, similar scale, similar challenges, specific ROI. They can present this to their investment committee.
-
+Now the prospect doesn't hear a claim. They see a specific case — a pension fund of comparable size, similar challenge, specific verified outcomes. They can present this to their investment committee.
 
 **When NOT to use STAR:**
 
-- When you don't have real customer data and results
-- When the customer cannot be identified or verified
-- When results aren't comparable to your prospect's situation
-- When you're creating quick-hit content (e.g., social media)
+- When you don't have real, GIPS-verified performance data
+- When the client cannot be referenced (even anonymously)
+- When the strategy or market context isn't comparable to the prospect's situation
+- When you're creating top-of-funnel content (use BAB)
 
 **When you MUST use STAR:**
 
-- RFP response (vendors always ask for customer case studies)
-- Sales presentations to enterprise prospects
-- Proposal sections proving capability
-- Website social proof and customer reference sections
-- Overcoming prospect skepticism in long cycles
+- RFP responses (institutional consultants and allocators always ask for comparable mandates)
+- Due diligence meetings with shortlisted managers
+- Investment committee presentations
+- Website social proof and case study sections
+- Overcoming prospect skepticism in competitive evaluation
 
 **Why STAR is inherently compliant:**
 
-STAR requires specific, measurable, verifiable results. You can't hand-wave through STAR. If you try, an evaluator or procurement team will catch it. The framework forces specificity, which forces accuracy, which makes STAR the most legally defensible narrative format. Legal teams review STAR stories less scrutinously because the structure itself enforces truth.
+STAR requires specific, measurable, verifiable results. You cannot hand-wave through STAR. If you try, a due diligence team or consultant will catch it. The framework forces specificity — which forces accuracy — which makes STAR the most legally defensible narrative format in asset management. Compliance teams review STAR-structured case studies more comfortably because the structure itself enforces factual accuracy and GIPS discipline.
 
 ---
 
 ## Framework #4: BAB
-### Business Impact Narrative That Drives Deal Progression
+### Building Investment Conviction Across the Allocation Committee
 
 **What is BAB?**
 
-**BAB** stands for Before-After-Bridge. It's the framework for creating business impact narratives that help prospects envision success and justify investment to leadership.
+**BAB** stands for Before-After-Bridge. It's the framework for creating business impact narratives that help institutional prospects envision the outcome of allocating to your strategy and justify it to their committee.
 
 **Why BAB matters:**
 
-Decisions are made by committees, not individuals. And committees need to justify their decisions upward.
+Allocation decisions are made by committees, not individuals. And committees need to justify their decisions upward.
 
-A CFO evaluating your platform needs to understand not just features, but what the company will look like after investment. The CTO needs to imagine the technical landscape with your solution integrated. The Head of Risk needs to envision their regulatory posture.
+A CIO evaluating your strategy needs to understand not just the historical track record but what the portfolio will look like after the allocation. The Risk Officer needs to envision the fund's drawdown profile with your strategy in the mix. The Investment Committee needs to see how the allocation advances their liability-matching objectives.
 
-BAB builds that vision. It takes stakeholders from "we have a problem" to "here's what success looks like" to "here's how we get there."
+BAB builds that vision. It takes stakeholders from "we have an investment problem" to "here's what the portfolio looks like after the allocation" to "here's how we get there."
 
 **What BAB does differently:**
 
-BAB is business-outcome focused. Unlike STAR (which proves past results), BAB is about imagining future value. It's not about what happened to another company. It's about what could happen to your organization.
+BAB is outcome-focused. Unlike STAR (which proves past results), BAB is about imagining future portfolio value. It's not about what happened to another client; it's about what could happen to this fund.
 
-BAB is less about emotion and more about business transformation narrative. It helps stakeholders build the case internally.
+In institutional sales, BAB is less about emotion and more about portfolio transformation narrative. It helps stakeholders build the internal case for the allocation.
 
 **The BAB Template:**
 
 ```
-Before: [Describe your current state and business constraint. Specific, not emotional.]
+Before: [Describe the current portfolio state and investment problem. Specific, factual, not emotional.]
 
-After: [Paint the picture of success. What does the business look like? What becomes possible?]
+After: [Paint the picture of the improved portfolio. What becomes possible? What metrics improve?]
 
-Bridge: [How our solution gets you from Before to After. Timeline, scope, what changes.]
+Bridge: [How your strategy gets them from Before to After. Mandate structure, timeline, reporting.]
 ```
 
 **Real BAB in Action:**
 
 ❌ **Without BAB:**
 ```
-"Our domain asset management platform provides real-time asset visibility and compliance reporting."
+"Our global equity strategy provides diversified exposure with active risk management."
 ```
-(Feature list. Doesn't help anyone imagine success or justify internally.)
+(Feature description. Doesn't help anyone envision the portfolio outcome or justify internally.)
 
 ✅ **With BAB:**
 ```
-Before: Your infrastructure portfolio is spread across 12 portfolio companies. Asset data lives 
-in spreadsheets, maintenance databases, and facility management systems that don't talk to each 
-other. Your investment team has zero real-time visibility into asset status, depreciation, or 
-compliance state. Due diligence on new acquisitions takes weeks of manual research. ESG reporting 
-requires 3 people for 4 weeks each quarter. You're missing opportunities to consolidate or 
-divest underperforming assets because you lack the data to make the decision.
+Before: Your £6B pension fund currently holds 40% in global equities, split between a 
+passive tracker (60%) and two active managers that have collectively underperformed their 
+blended benchmark by 55bps per year net of fees over 5 years. Your actuarial return 
+assumption is 6.2%, but your equity book is generating 5.6% net. The gap is widening. 
+Your investment committee reviews this quarterly. Your risk officer has flagged that your 
+maximum drawdown during 2022 was 16.2%, materially above your IPS-stated tolerance of 
+12%. You have a 2025 ALM review approaching and need to demonstrate that your active 
+equity allocation is earning its cost.
 
-After: Your entire portfolio is visible in one platform. You can see every asset, its condition, 
-maintenance schedule, compliance status, and depreciation in real time. New acquisition due diligence 
-is 10 days instead of 6 weeks because you have instant access to benchmarks and standards. Your ESG 
-reporting is automated it completes in 5 days instead of 4 weeks. Your investment team has 60+ hours 
-per quarter to focus on actual strategic decisions (consolidation, optimization, ROI improvement) 
-instead of data gathering. You can identify underperforming assets and act in real time.
+After: Your equity allocation has a credible alpha source with verified performance of 
++185bps net of fees above MSCI World over 5 years, with a maximum drawdown 35% lower 
+than the benchmark during the 2022 stress period. Your actuarial gap narrows. Your 
+Investment Committee has clear attribution data showing why active management is justified 
+versus the passive alternative. Your risk officer has a quarterly drawdown report that 
+consistently confirms you are within IPS parameters. When your 2025 ALM review comes, 
+your equity book is a strength, not a question.
 
-Bridge: Our platform integrates with your existing maintenance systems, accounting databases, and 
-facility management tools no rip-and-replace. We aggregate asset data into a single source of truth. 
-Compliance reporting and ESG metrics are automated through configurable rules (built for your 
-regulatory environment). Your investment team gets a dashboard that updates in real time. Implementation: 
-6-8 weeks for full portfolio visibility. ESG automation: 10-12 weeks. Cost: $200K platform + $50K 
-implementation.
+Bridge: We propose a £200M mandate (replacing one of your underperforming active managers). 
+90-day transition to minimize market impact. Custom quarterly attribution reporting aligned 
+to your IPS format, delivered within 10 business days of quarter close. ESG integration 
+report aligned to your trustee ESG policy. Fee: 35bps on AUM (below your current active 
+management average of 48bps). 18-month mandate review with optionality to increase 
+allocation if performance is tracking as expected.
 ```
 
 Now each stakeholder can envision what success looks like and why it matters:
-- **CFO**: Hours freed up for strategic work, faster due diligence, lower operational costs
-- **Investment Committee**: Real-time portfolio visibility, faster decision-making, risk reduction
-- **ESG/Compliance**: Faster reporting, audit-ready data, lower manual effort
-
+- **CIO**: Credible alpha source, actuarial gap closes, defensible to the committee
+- **Risk Officer**: Maximum drawdown within IPS parameters, quarterly reporting confirms
+- **Investment Committee**: Clear attribution, cost-of-active justified vs. passive
 
 **When NOT to use BAB:**
 
-- When you're validating a single fact (use PREP)
-- When you're building proof of concept (use STAR)
+- When you're validating a single performance claim (use PREP)
+- When you're building proof from a past mandate (use STAR)
 - When you're researching stakeholder concerns (use CLEAR)
 
 **When you MUST use BAB:**
 
-- Executive overview sections in proposals
-- Email sequences to C-level stakeholders
-- Positioning and website messaging
-- Sales presentations to leadership committees
-- Board-level pitch materials and executive summaries
+- Executive overview sections in pitch books
+- Email sequences to CIO and investment committee members
+- Positioning materials and investment philosophy statements
+- Consultant presentations and intermediary briefings
+- Moving prospects from due diligence to mandate decision
 
-**The critical difference in complex sales BAB:**
+**The critical difference in institutional sales BAB:**
 
-BAB isn't about emotional manipulation. It's about credible business transformation narrative. The "Before" must be real and specific. The "After" must be achievable, not fantasy. The "Bridge" must include realistic timeline and investment. If you oversell the transformation or underestimate effort, you lose credibility and the deal stalls in implementation.
+BAB isn't about creating excitement. It's about credible portfolio transformation narrative. The "Before" must be real and specific; don't manufacture a problem they don't have. The "After" must be achievable, not promised. The "Bridge" must include realistic timeline, mandate structure, and fee. If you oversell the transformation or underestimate implementation complexity, you lose credibility and the mandate dies in due diligence.
 
 ---
 
 ## Framework #5: PREP
-### Claims That Pass Legal Review and Evaluation
+### Performance Claims That Pass Compliance and Due Diligence
 
 **What is PREP?**
 
-**PREP** stands for Position-Reason-Evidence-Position. It's the framework for ensuring every marketing claim is substantiated, defensible, and audit-ready.
+**PREP** stands for Position-Reason-Evidence-Position. It's the framework for ensuring every marketing claim about your strategy is substantiated, GIPS-compliant, and defensible under regulatory and due diligence review processes.
 
 **Why PREP matters:**
 
-One unsubstantiated claim can derail an entire deal.
+One unsubstantiated performance claim can derail an entire mandate.
 
-Your prospect's procurement team will scrutinize every comparative claim. Their legal team will ask for evidence. If you claim "40% faster implementation," they'll ask faster than what, based on what data, from when. If you claim "highest customer retention," they'll want third-party verification.
+Your prospect's consultant will scrutinize every comparative claim. Their compliance team will ask for evidence. If you claim "top-quartile performance," they'll ask which universe, which time period, net or gross, and which share class. If you claim "outperformed the benchmark by 200bps," they'll want to see the GIPS composite, the benchmark specification, and whether the period was cherry-picked.
 
-If they catch you overreaching on a claim, the deal stalls while procurement decides whether to trust you. Or it dies entirely.
+If they catch you overstating a claim or even presenting a defensible number in a misleading context, the mandate stalls while their legal team decides whether to trust you. Or it dies entirely.
 
-PREP is how you audit every claim before it enters the sales process. It ensures each claim is:
-- Specific (not vague like "best" or "leading")
-- Evidence-backed (with verifiable data)
-- Scoped correctly (you know what you're comparing)
-- Legally defensible (you can explain it to an attorney)
+PREP is how you audit every performance and capability claim before it enters the sales process. It ensures each claim is:
+- Specific (not vague like "top-performing" or "market-leading")
+- Evidence-backed (GIPS composite, third-party database, consultant report)
+- Scoped correctly (you know exactly what you're comparing and over what period)
+- Legally defensible (you can explain it to a compliance officer or FCA reviewer)
 
 **What PREP does differently:**
 
-PREP is risk-management focused. Unlike BAB (which persuades) or STAR (which narrates), PREP ensures what you're claiming is true, provable, and scoped correctly.
+PREP is compliance-first. Unlike BAB (which builds conviction) or STAR (which narrates mandate wins), PREP ensures what you're claiming is accurate, provable, and correctly scoped.
 
-Think of PREP as your legal and compliance framework. It's not about making better claims. It's about making substantiated claims that accelerate deals instead of blocking them.
+Think of PREP as your regulatory firewall. It's not about making better claims; it's about making substantiated claims that accelerate mandates instead of blocking them.
 
 **The PREP Template:**
 
 ```
-Position: [Your specific marketing claim or differentiation]
+Position: [Your specific marketing claim or performance differentiation]
 
-Reason: [Why this claim matters to enterprise decision makers]
+Reason: [Why this claim matters to institutional decision makers]
 
-Evidence: [Specific, recent, verifiable data. Source, timeframe, scope.]
+Evidence: [Specific, recent, verifiable data. Source, timeframe, scope, GIPS reference.]
 
-Position: [Restate your position, now reinforced by evidence. Include scope and caveats.]
+Position: [Restate your position, now reinforced by evidence. Include scope and required disclaimers.]
 ```
 
 **Real PREP in Action:**
 
 ❌ **Without PREP:**
 ```
-"The fastest data governance platform on the market. The industry-leading solution for asset management."
+"Our strategy consistently outperforms the market and delivers industry-leading 
+risk-adjusted returns."
 ```
-(Vague. Unsubstantiated. Legally exposed. Procurement will flag this.)
+(Vague. Unsubstantiated. Will be flagged immediately by consultant or compliance.)
 
 ✅ **With PREP:**
 ```
-Position: Our platform implements 60% faster than legacy enterprise solutions in comparable scope.
+Position: Our Global Active Equity strategy has delivered 185bps of net alpha above 
+the MSCI World benchmark over the 5-year period ending December 2024.
 
-Reason: Implementation speed directly impacts time-to-value and cost of integration. 
-Insurance and PE firms prioritize fast deployment because delay risks compliance gaps or 
-business decision delays.
+Reason: Institutional allocators evaluating active managers require verified, 
+net-of-fee alpha over a full market cycle. The 5-year period (2020-2024) includes 
+both the 2020 recovery, the 2022 drawdown, and the 2023-2024 recovery — a meaningful 
+test of strategy robustness across market regimes.
 
-Evidence: 
-  • Our average deployment: 6-8 weeks for full data integration + compliance automation 
-    (based on 47 enterprise customers, 2024-2025, $500K+ contract value)
-  • Comparable solutions: Collibra and Alation average 12-16 weeks per analyst reports 
-    and customer conversations
-  • Scope: Both measured for mid-market to enterprise implementations ($500K-$2M contract value, 
-    10+ data sources, full governance setup)
-  • Third-party validation: Gartner 2024 Data Governance Report notes "implementation timeline 
-    a primary evaluation criterion; range 8-20 weeks depending on solution and scope"
-  • Customer verified: [Named case study with timeline] "Deployed in 7 weeks vs. 16-week estimate 
-    for competing solution"
-  • Caveats: Timeline varies by scope. Faster implementations (4-5 weeks) with limited integration. 
-    Complex implementations (10-12 weeks) with 20+ data sources and custom compliance rules.
+Evidence:
+  • GIPS-compliant composite: Global Active Equity Composite, inception date January 2015. 
+    5-year annualised return (net of fees): 14.2% versus MSCI World 12.35%. 
+    Alpha: +185bps. All figures as at 31 December 2024.
+  • Composite assets: £3.8B across 22 accounts at 31 December 2024
+  • Benchmark: MSCI World Total Return Index (GBP), standard benchmark for the composite
+  • Maximum drawdown (2020-2024): -9.3% versus benchmark -14.1% in 2022 stress period
+  • Third-party validation: eVestment database ranking, top quartile in Global Equity 
+    Large Cap category for 3-year and 5-year net-of-fee returns (as at Q4 2024)
+  • Caveats: Past performance is not a guarantee of future results. Performance shown 
+    is net of standard institutional fee of 35bps. Individual account performance 
+    may vary. GIPS-compliant presentation available on request.
 
-Position: Our platform typically deploys in 6-8 weeks compared to 12-16 weeks for legacy 
-enterprise solutions at comparable scope. This 60% speed advantage is validated by customer 
-implementations and analyst reports, though timeline varies by integration complexity.
+Position: Our Global Active Equity strategy has delivered 185bps of net annual alpha 
+above the MSCI World benchmark over the 5-year period 2020-2024, verified in our 
+GIPS-compliant composite across 22 institutional accounts totalling £3.8B. This claim 
+is substantiated by third-party eVestment data (top-quartile ranking) and is subject 
+to standard investment disclaimers. Full composite statistics available on request.
 ```
 
 Now the claim is defensible:
-- ✅ Specific (6-8 weeks, not "fast")
-- ✅ Scoped (comparable contract value and integration scope)
-- ✅ Evidence-backed (customer data, analyst reports, known competitors)
-- ✅ Caveat-qualified (you acknowledge that scope affects timeline)
-- ✅ Legally sound (you can explain every number and comparison)
-
+- ✅ Specific (185bps net, 5-year, December 2024)
+- ✅ Scoped (22 accounts, £3.8B AUM, MSCI World benchmark)
+- ✅ Evidence-backed (GIPS composite, eVestment database)
+- ✅ Caveat-qualified (past performance disclaimer, fee basis stated)
+- ✅ Legally sound (you can explain every number to a compliance officer or FCA reviewer)
 
 **When NOT to use PREP:**
 
-- During creative ideation or brainstorming
-- For internal-only content without external claims
-- When you don't have supporting evidence yet (research first)
+- During creative ideation or internal brainstorming
+- For internal-only content without external performance claims
+- When you don't have GIPS-verified composite data yet (get it before publishing)
 
 **When you MUST use PREP:**
 
-- Before ANY comparative claim ("faster," "better," "more," "highest")
-- Before RFP responses go to procurement
-- Before case studies are published (verify all metrics)
-- Before advertising campaigns launch
-- Before sales collateral reaches prospects
-- Before regulatory review (insurance, finance, healthcare claims)
+- Before ANY comparative performance claim ("outperformed," "top-quartile," "alpha of X%")
+- Before RFP responses go to consultant or procurement review
+- Before case studies or mandate references are published
+- Before pitch materials reach institutional prospects
+- Before regulatory filings or marketing approvals (FCA, SEC)
+- Before advertising or digital content goes live
 
 **The PREP Compliance Checklist:**
 
-Before publishing any marketing claim:
+Before publishing any performance or capability claim:
 
 ```
-□ Position: Is the claim specific and measurable? (Not "best," "leading," "industry-leading")
-□ Reason: Why does this matter to the buyer? (Why does fast implementation matter to the CFO?)
-□ Evidence: Do we have specific, recent (2024-2025), verifiable data?
-□ Evidence Source: Is the source reputable and third-party where possible? (Customer data + analyst report)
-□ Evidence Scope: Is the scope clearly defined? (What contract value? What integration complexity?)
-□ Comparison: When comparing, are we comparing apples-to-apples? (Same scope, same timeframe)
-□ Caveats: Do we acknowledge scope variations that might affect the claim?
-□ Legal Review: Has legal reviewed this and approved the language?
-□ Competitive Risk: Could a competitor credibly challenge this claim?
+□ Position: Is the claim specific and measurable? (Not "outperforms," but "185bps net alpha over 5 years")
+□ Reason: Why does this matter to the allocator? (Why does alpha over a full market cycle matter to a pension CIO?)
+□ Evidence: Do we have specific, GIPS-verified, third-party validated data?
+□ Evidence Source: Is the source reputable? (GIPS composite + consultant database + named third party)
+□ Evidence Scope: Is the scope clearly defined? (Time period, fee basis, benchmark, account universe)
+□ Comparison: When comparing, are we comparing apples-to-apples? (Same benchmark, same time period, net of fees)
+□ Caveats: Are required disclaimers included? (Past performance, GIPS reference, fee basis)
+□ Compliance Review: Has compliance reviewed and approved the language?
+□ Regulatory Risk: Could a regulator (FCA, SEC) challenge this claim or its context?
 
 If any box is unchecked, the claim is not ready for external marketing.
 ```
@@ -597,133 +617,133 @@ If any box is unchecked, the claim is not ready for external marketing.
 
 - If you can't check all boxes: Don't make the claim
 - If you can make it more specific: Do that first
-- If you're missing evidence: Get it before publishing
-- If the comparison is unfair: Change the claim to be fair
-- If legal flags it: Fix it before launch
+- If you're missing GIPS-verified data: Get it before publishing
+- If the comparison period was selected to flatter performance: Change to a standard period
+- If compliance flags it: Fix it before any external use
 
-PREP is non-negotiable. A stalled deal because they can't verify your claim costs more than the time it takes to get PREP right.
+PREP is non-negotiable. A stalled mandate because your consultant questions a performance claim costs more than the time it takes to get PREP right.
 
 ---
 
 ## When to Use Each Framework
 
 **Use CLEAR when:**
-- Entering a new market segment or customer profile
-- Planning a major deal pursuit or account-based campaign
-- Understanding what multiple stakeholders evaluate
-- Developing competitive positioning strategy
-- Researching regulatory or compliance requirements
+- Entering a new institutional investor segment (pension funds, endowments, SWFs, insurers)
+- Planning a major mandate pursuit or consultant-led RFP campaign
+- Understanding what multiple stakeholders evaluate in a manager selection process
+- Developing competitive positioning against other active managers or passive alternatives
+- Researching regulatory or ESG requirements for a specific investor type
 
 **Use COSTAR when:**
-- Creating RFP responses, solution briefs, or proposals
-- Needing consistency across stakeholder perspectives
-- Brand trust and credibility matter more than speed
-- Building flagship content and positioning
-- Want first-draft output that passes review
+- Creating RFP responses, strategy briefs, or pitch materials
+- Needing consistency across stakeholder perspectives (CIO, Risk, Compliance, Committee)
+- Firm credibility and investment sophistication matter more than speed
+- Building flagship content and positioning for a product or strategy
+- Want first-draft output that passes compliance review
 
 **Use STAR when:**
-- You have implementation results from customers
-- Building proof for vendor evaluation
-- Creating case studies or reference materials
-- Demonstrating real ROI from complex deployments
-- Addressing prospect skepticism in evaluation
+- You have verified performance data and a referenceable mandate
+- Building proof for competitive manager evaluation
+- Creating institutional case studies or consultant reference materials
+- Demonstrating risk-adjusted alpha from comparable mandates
+- Addressing allocator skepticism about active management in evaluation
 
 **Use BAB when:**
-- Helping prospects envision post-implementation success
-- Targeting specific business constraints
-- Helping stakeholders justify investment
-- Writing executive overviews or board-level materials
-- Moving prospects from evaluation to closure
+- Helping prospects envision their portfolio after the allocation
+- Targeting a specific investment problem (actuarial gap, drawdown exposure, ESG mandate)
+- Helping stakeholders justify the allocation to their investment committee
+- Writing executive overviews or investment committee briefing materials
+- Moving prospects from due diligence to mandate decision
 
 **Use PREP when:**
-- Making any comparative claim ("faster," "better," "highest")
-- Content goes through procurement or legal review
-- Claiming ROI, cost savings, or compliance benefits
-- Publishing case studies or reference materials
-- Building RFP responses that will be scrutinized
+- Making any performance or comparative claim ("alpha," "top-quartile," "outperformed")
+- Content goes through consultant, procurement, or compliance review
+- Claiming risk-adjusted returns, drawdown improvement, or cost reduction
+- Publishing case studies or mandate references
+- Building RFP responses that will face forensic scrutiny
 
 ---
 
 ## The Complete Marketing Workflow
 
-Here's how these frameworks work together across the sales cycle:
+Here's how these frameworks work together across the mandate sales cycle:
 
-![Five-phase sales workflow: Market Entry, Content Infrastructure, Deal Acceleration, Legal & Compliance, Scale & ABM. Arrows showing CLEAR → COSTAR → BAB+STAR → PREP → COSTAR](/assets/img/top_marketing_prompting_frameworks/image_03.png)
-*All five frameworks work together at different deal stages. CLEAR informs everything. PREP protects everything.*
+![Five-phase mandate workflow: Market Entry, Content Infrastructure, Deal Acceleration, Legal & Compliance, Scale & ABM. Arrows showing CLEAR flows to COSTAR flows to BAB+STAR flows to PREP flows to COSTAR](/assets/img/top_marketing_prompting_frameworks/image_03.png)
+*All five frameworks work together at different mandate stages. CLEAR informs everything. PREP protects everything.*
 
 ### Phase 1: Market Entry & Positioning Strategy
-**Use CLEAR** to understand your market and how decisions are made.
-- Map the 6-7 stakeholders and what each evaluates
-- Identify pain points that drive vendor selection
-- Research competitive landscape and positioning gaps
-- Identify regulatory or compliance requirements
-- Validate messaging hypotheses with customer interviews
+**Use CLEAR** to understand your institutional investor segment and how allocation decisions are made.
+- Map the 6-8 stakeholders and what each evaluates in manager selection
+- Identify investment problems that drive manager replacement or new allocations
+- Research competitive landscape (passive alternatives, peer active managers)
+- Identify regulatory or ESG requirements for the investor type
+- Validate messaging hypotheses with consultant conversations
 
 ### Phase 2: Content Infrastructure
 **Use COSTAR** to define messaging and create reusable templates.
-- Define positioning and value proposition
-- Create messaging templates for each stakeholder
-- Build RFP response frameworks and solution brief templates
-- Establish brand voice and quality standards
-- Create website messaging and collateral templates
+- Define investment philosophy positioning and alpha source narrative
+- Create messaging templates for each stakeholder type
+- Build RFP response frameworks and strategy brief templates
+- Establish brand voice and quality standards for all institutional content
+- Create pitch book and due diligence questionnaire templates
 
-### Phase 3: Deal Acceleration Content
-**Use BAB** to create business impact narratives.
-**Use STAR** for specific customer proof.
-- Create executive overviews showing post-implementation success
-- Build case studies with specific ROI
-- Develop email sequences for evaluation
-- Create sales presentations for each stakeholder
-- Build comparison materials addressing competitive questions
+### Phase 3: Mandate Acceleration Content
+**Use BAB** to create portfolio impact narratives.
+**Use STAR** for specific mandate proof.
+- Create executive overviews showing post-allocation portfolio outcomes
+- Build mandate case studies with specific, GIPS-verified performance
+- Develop email sequences for evaluation and due diligence stages
+- Create consultant presentations for each strategy
+- Build competitive positioning materials addressing passive vs. active arguments
 
-### Phase 4: Legal & Compliance Review
+### Phase 4: Compliance & Regulatory Review
 **Use PREP** to ensure every claim survives scrutiny.
-- Audit every comparative claim
-- Verify ROI claims with customer data
-- Identify claims requiring third-party validation
-- Get legal sign-off on sales materials
-- Document evidence for each claim
+- Audit every comparative performance claim
+- Verify all metrics against GIPS-compliant composites
+- Identify claims requiring third-party validation (eVestment, Mercer, Morningstar)
+- Get compliance sign-off on all pitch materials
+- Document evidence and disclaimers for each performance claim
 
 ### Phase 5: Scale & Account-Based Marketing
-**Use COSTAR** for consistent voice across all pieces.
-**Use CLEAR** for new market segments.
-**Use PREP** to maintain compliance.
-- Create custom RFP responses for specific accounts
-- Scale case studies and proof materials
-- Build account-specific narratives
-- Monitor deal velocity and optimize messaging
-- Keep claims updated and PREP-verified
-
+**Use COSTAR** for consistent voice across all content.
+**Use CLEAR** for new institutional segments.
+**Use PREP** to maintain compliance as you scale.
+- Create custom RFP responses for specific institutional accounts
+- Scale mandate case studies and proof materials across consultant databases
+- Build segment-specific narratives (pension vs. endowment vs. SWF vs. insurer)
+- Monitor mandate velocity and optimize messaging at each stage
+- Keep performance claims current and PREP-verified as composites update
 
 ---
 
-## The Bottom Line: Marketing That Actually Closes Deals
+## The Bottom Line: Marketing That Wins Mandates
 
-You have access to the same AI tools as your competitors. The difference isn't capability. It's structure.
+You have access to the same AI tools as your competitors. The difference isn't the tool. It's the structure.
 
-In complex sales cycles, marketing loses deals at three points:
-1. **Discovery**: Prospects never understand what you do differently because your messaging misses what they actually care about. (CLEAR solves this)
-2. **Evaluation**: Your RFP responses lack the proof and positioning that wins against competitors. (STAR + COSTAR solve this)
-3. **Closure**: Deals stall because claims aren't substantiated, messaging sounds generic, or value doesn't justify price and implementation effort. (BAB + PREP solve this)
+In institutional mandate sales, marketing loses deals at three points:
+
+1. **Evaluation entry**: Prospects never shortlist you because your messaging misses what they actually evaluate. (CLEAR solves this)
+2. **Due diligence**: Your pitch materials lack the proof and credibility that institutional consultants require. (STAR + COSTAR solve this)
+3. **Mandate decision**: Deals stall because claims aren't substantiated, performance isn't properly scoped, or the narrative doesn't help stakeholders justify internally. (BAB + PREP solve this)
 
 These five frameworks give you the structure to win at each stage.
 
 They ensure:
-- Stakeholder-aligned research that informs positioning and messaging (CLEAR)
-- Consistent, credible voice across all touchpoints (COSTAR)
-- Business impact narratives that help stakeholders justify investment (BAB)
-- Specific customer proof that addresses prospect skepticism (STAR)
-- Substantiated claims that pass legal review and procurement scrutiny (PREP)
+- Stakeholder-aligned research that informs positioning and mandate messaging (CLEAR)
+- Consistent, credible voice across all pitch materials and RFP responses (COSTAR)
+- Portfolio impact narratives that help stakeholders justify the allocation (BAB)
+- Specific mandate proof that addresses consultant and investor skepticism (STAR)
+- Substantiated performance claims that pass compliance, consultant, and regulatory review (PREP)
 
-The companies accelerating deals are doing this already, whether they call it a "framework" or not. They:
-- Understand who makes the decision and what they evaluate before creating messaging
+The asset management firms winning mandates faster are already doing this, whether they call it a "framework" or not. They:
+- Understand who makes the allocation decision and what they evaluate before creating pitch materials
 - Write RFP responses that address each stakeholder's specific concern
-- Back claims with customer data and verifiable evidence
-- Get legal buy-in early so deals don't stall in compliance review
-- Create proof materials that win procurement
+- Back claims with GIPS-verified data and third-party validation
+- Get compliance buy-in early so mandates don't stall in regulatory review
+- Build proof materials that consultants reference when recommending managers
 
-**Start with CLEAR this week.** Interview customers and understand the 6-7 actual decision makers in your target market. Map what they evaluate and why. That research informs everything that follows.
+**Start with CLEAR this week.** Research the 6-8 actual stakeholders in your target institutional segment. Map what they evaluate and why. That research informs every piece of content that follows.
 
-Companies who master these frameworks won't just create content faster. They'll close deals faster. Because their content addresses real buying criteria, passes legal review on the first pass, and actually moves prospects from evaluation to implementation.
+The firms that master these frameworks won't just create content faster. They'll win mandates faster because their content addresses real evaluation criteria, passes compliance review on the first pass, and actually moves institutional investors from due diligence to allocation.
 
-That's the difference between good marketing and marketing that closes deals.
+That's the difference between AI-generated content and AI-powered mandate marketing.
