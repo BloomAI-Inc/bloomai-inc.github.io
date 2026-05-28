@@ -17,17 +17,21 @@ pretty_table: true
 
 ---
 
-Here's a situation I've seen play out more times than I can count.
+Analytics-Ready Data Is Not AI-Ready Data
 
-A team spends two years getting their data house in order. Definitions are agreed upon. Dashboards are trusted. The CFO stops asking "where does this number come from?" The data team, rightfully, feels good about what they've built.
+This pattern repeats itself constantly.
 
-Then AI shows up on the roadmap.
+A team spends two years getting their data house in order. Definitions are agreed upon, dashboards are trusted, and the CFO stops asking "where does this number come from?" The data team, rightfully, feels good.
 
-Someone points at the data warehouse and says: "We already have great data, let's plug the models in." So the team wires an LLM or an ML system into the same pipelines powering their dashboards. And the models... don't work. Outputs are stale, hallucinated, or confidently wrong in ways that are really hard to explain to a room full of stakeholders.
+Then AI lands on the roadmap.
 
-This is not a model problem. It's a data architecture problem. And it starts with a category error almost every team makes: **treating analytics-ready data and AI-ready data as the same thing**.
+Someone gestures at the data warehouse: "We already have great data — let's plug the models in." The team wires an LLM or ML system into the same pipelines powering their reporting. The models don't work. Outputs are stale, hallucinated, or confidently wrong in ways that are nearly impossible to explain to stakeholders.
 
-They're not. The sooner you internalize that, the less time you'll waste fixing the wrong thing.
+This isn't a model problem. It's a data architecture problem — rooted in a category error most teams make:
+
+Treating analytics-ready data and AI-ready data as the same thing.
+
+They aren't. The sooner you internalize that distinction, the less time you'll spend fixing the wrong layer.
 
 ---
 
@@ -169,25 +173,8 @@ Having highly mature analytics can actually slow your AI progress, because you'v
 
 If analytics and AI maturity are independent axes, your organization can end up in four places.
 
-**Low Analytics, Low AI: The Fog**
-
-Data exists but meaning doesn't. Reports are inconsistent, models are brittle, decisions lean on intuition. AI experiments feel magical when they work and inexplicable when they don't. Most organizations start here, and more stay here than would admit it.
-
-**High Analytics, Low AI: The Dashboard Trap**
-
-This is the most common spot, and the most dangerous. Dashboards are trusted. Metrics are governed. Executives are confident. And AI systems hallucinate or underperform anyway.
-
-The org has gotten so good at explaining the past that it compressed away the context AI needs. Variance is gone. Edge cases are smoothed out. Then AI gets asked to reason over the residue. This is where teams say: "Our data is great. Why doesn't AI work?"
-
-**Low Analytics, High AI: The Black Box Lab**
-
-AI demos work. Prototypes reason well in isolation. But humans don't trust them. Outputs can't be explained or defended. When something goes wrong, nobody knows which number to believe. Political resistance outlasts technical progress.
-
-**High Analytics, High AI: The Coordinated System**
-
-This is the goal, and it's rarer than people think. Analytics provides stable, trusted narratives about what happened. AI operates on rich, contextual, semantically grounded data to reason about what should happen next. The two systems don't share pipelines, but they share a source of truth.
-
-Humans trust the past. Machines reason about the future. The organization knows which system to ask which question.
+![AI & Analytics Maturity: Finding Balance — a 2x2 quadrant showing The Fog (low/low), Dashboard Trap (high analytics/low AI), Black Box Lab (low analytics/high AI), and Coordinated (high/high)](/assets/img/analytics-vs-ai-ready-data/maturity-quadrants.png)
+*Four quadrants, one fix: the path forward is upstream, in data architecture, not in model tuning.*
 
 ---
 
