@@ -1,0 +1,24 @@
+{% for social in site.data.socials %}
+  {% case social[0] %}
+    {% when 'email' %}
+      <a href="mailto:{{ social[1] | encode_email }}" title="{{ 'Email' }}" class="social-link">
+        <i class="fa-solid fa-envelope"></i>
+      </a>
+    {% when 'linkedin_username' %}
+      <a href="https://www.linkedin.com/{{ social[1] }}" title="Linkedin username" rel="external nofollow noopener" target="_blank" class="social-link">
+        <i class="fa-brands fa-linkedin"></i>
+      </a>
+    {% when 'github_username' %}
+      <a href="https://github.com/{{ social[1] }}" title="Github username" rel="external nofollow noopener" target="_blank" class="social-link">
+        <i class="fa-brands fa-github"></i>
+      </a>
+    {% when 'x_username' %}
+      <a href="https://twitter.com/{{ social[1] }}" title="X username" rel="external nofollow noopener" target="_blank" class="social-link">
+        <i class="fa-brands fa-x-twitter"></i>
+      </a>
+    {% when 'whatsapp_number' %}
+      <a href="https://wa.me/{{ social[1] | replace: ' ', '%20' }}" title="Whatsapp number" rel="external nofollow noopener" target="_blank" class="social-link">
+        <i class="fa-brands fa-whatsapp"></i>
+      </a>
+  {% endcase %}
+{% endfor %}

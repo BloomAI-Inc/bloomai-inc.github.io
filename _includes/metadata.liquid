@@ -145,7 +145,7 @@
         {% capture link %}https://leetcode.com/u/{{ social[1] }}/{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'linkedin_username' %}
-        {% capture link %}https://www.linkedin.com/in/{{ social[1] }}{% endcapture %}
+        {% capture link %}https://www.linkedin.com/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'mastodon_username' %}
         {% capture link %}https://{{ social[1] }}{% endcapture %}
