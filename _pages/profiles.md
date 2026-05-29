@@ -16,7 +16,7 @@ profiles:
     more_info: >
       <p> Amit Shanker</p>
       <p>Founder & CEO, Bloom AI</p>
-      <a href="https://linkedin.com/in/amitshanker/" target="_blank">
+      <a href="https://www.linkedin.com/in/amitshanker81/" target="_blank">
         <i class="fab fa-linkedin"></i>
       </a>
       
