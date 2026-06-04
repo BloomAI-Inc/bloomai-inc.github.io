@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-prompting-frameworks-for-asset-management-marketing",
+        },{id: "post-how-investment-conversations-shifted-through-q1-and-what-it-tells-us-about-where-things-are-heading",
+        
+          title: "How Investment Conversations Shifted Through Q1 — And What It Tells Us About...",
+        
+        description: "From playing it safe in January to seriously talking about AI by March — here&#39;s what actually changed this quarter.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/How-investment-conversations-shifted-through-Q1/";
+          
+        },
+      },{id: "post-prompting-frameworks-for-asset-management-marketing",
         
           title: "Prompting Frameworks for Asset Management Marketing",
         
