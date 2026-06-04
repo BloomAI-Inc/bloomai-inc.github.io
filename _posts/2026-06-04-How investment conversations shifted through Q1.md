@@ -7,7 +7,7 @@ tags: [investing, ai, private-markets, portfolio-strategy, q1-analysis, geopolit
 categories: Markets
 giscus_comments: false
 related_posts: false
-featured: true
+featured: false
 toc:
   sidebar: left
 pretty_table: true
