@@ -12,7 +12,7 @@ toc:
   sidebar: left
 pretty_table: true
 ---
-*By Devansh Dutta · May 2026 · ~10 min read*
+*By Devansh Dutta · June 2026 · ~ 7 min read*
 
 *From playing it safe in January to seriously talking about AI by March — here's what actually changed this quarter.*
 
