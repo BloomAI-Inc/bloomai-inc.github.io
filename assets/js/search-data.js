@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-how-investment-conversations-shifted-through-q1-and-what-it-tells-us-about-where-things-are-heading",
+        },{id: "post-the-model-isn-39-t-the-bottleneck-your-data-39-s-shape-is",
+        
+          title: "The Model Isn&#39;t the Bottleneck.Your data&#39;s shape is.",
+        
+        description: "Why enterprise AI stalls — and why swapping in a stronger model rarely fixes it. The real bottleneck is data topology - warehouses are built for aggregation, but agents need traversal. A look at the architectural shift from columnar schemas to connected knowledge graphs, and why the data network — not the neural network — is the durable competitive asset.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/The-Model-Isn't-the-Bottleneck/";
+          
+        },
+      },{id: "post-how-investment-conversations-shifted-through-q1-and-what-it-tells-us-about-where-things-are-heading",
         
           title: "How Investment Conversations Shifted Through Q1 — And What It Tells Us About...",
         
