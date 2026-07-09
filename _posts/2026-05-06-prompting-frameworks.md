@@ -11,6 +11,7 @@ featured: false
 toc:
   sidebar: left
 pretty_table: true
+author: Kunal Singh
 ---
 
 **Author:** Kunal  

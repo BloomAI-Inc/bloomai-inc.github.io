@@ -11,6 +11,7 @@ featured: false
 toc:
   sidebar: left
 pretty_table: true
+author: Aman Aggarwal
 ---
 
 *By Aman Aggarwal · June 2026 · ~6 min read*

@@ -7,10 +7,11 @@ tags: [genai,llm,data-analytics,data-engineering,data-architecture,data-quality]
 categories: GenAI
 giscus_comments: false
 related_posts: false
-featured: true
+featured: false
 toc:
   sidebar: left
 pretty_table: true
+author: Aman Aggarwal
 ---
 
 *By Aman Aggarwal · May 2026 · ~10 min read*
