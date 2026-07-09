@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-the-model-isn-39-t-the-bottleneck-your-data-39-s-shape-is",
+        },{id: "post-the-semantic-layer-is-the-product-not-models",
+        
+          title: "The Semantic Layer Is the Product, Not Models",
+        
+        description: "LLM-powered analytics fails in a worse way than traditional BI - not with an error, but with a confidently wrong answer. The fix isn&#39;t a stronger model, it&#39;s a deterministic semantic layer that turns &quot;invent the calculation&quot; into &quot;look up the definition,&quot; and turns silent guessing into visible disambiguation.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/semantic-layer-is-the-product-not-models/";
+          
+        },
+      },{id: "post-the-model-isn-39-t-the-bottleneck-your-data-39-s-shape-is",
         
           title: "The Model Isn&#39;t the Bottleneck.Your data&#39;s shape is.",
         
