@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-the-semantic-layer-is-the-product-not-models",
+        },{id: "post-a-rag-system-fails-in-four-places-not-one",
+        
+          title: "A RAG System Fails in Four Places, Not One",
+        
+        description: "A model that passes every jailbreak test can still hand back a confidently wrong answer - because in a RAG system, the model is just one of four places things break. The model, the retrieval path, the generated answer, and behavior under load each fail in ways the others can&#39;t see, and each needs its own test.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/rag-testing-four-layers/";
+          
+        },
+      },{id: "post-the-semantic-layer-is-the-product-not-models",
         
           title: "The Semantic Layer Is the Product, Not Models",
         
