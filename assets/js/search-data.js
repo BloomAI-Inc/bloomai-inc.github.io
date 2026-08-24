@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-a-rag-system-fails-in-four-places-not-one",
+        },{id: "post-best-practices-for-building-mcp-servers",
+        
+          title: "Best Practices for Building MCP Servers",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/mcp-server-best-practices/";
+          
+        },
+      },{id: "post-a-rag-system-fails-in-four-places-not-one",
         
           title: "A RAG System Fails in Four Places, Not One",
         
